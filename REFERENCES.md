@@ -1,0 +1,22 @@
+# References
+
+- Board of Governors of the Federal Reserve System (US). (1989a, July 1). Share of Total Net Worth Held by the Bottom 50% (1st to 50th Wealth Percentiles). FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/WFRBSB50215
+- Board of Governors of the Federal Reserve System (US). (1989b, July 1). Share of Total Net Worth Held by the Top 1% (99th to 100th Wealth Percentiles). FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/WFRBST01134
+- Data. (2018, July 24). Opportunity Insights. https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=546#resource-listing
+- Digest of Education Statistics,. (n.d.). Nces.ed.gov. https://nces.ed.gov/programs/digest/d23/tables/dt23_330.10.asp
+- FRED. (2016). GINI Index for the United States. Stlouisfed.org. https://fred.stlouisfed.org/series/SIPOVGINIUSA
+- FRED. (2018). Real Median Personal Income in the United States. Stlouisfed.org. https://fred.stlouisfed.org/series/MEPAINUSA672N
+- FRED. (2023). Consumer Price Index for All Urban Consumers: All Items. Stlouisfed.org. https://fred.stlouisfed.org/series/CPIAUCSL
+- Here’s Why Medicare Part B Premiums Have Increased Over Time. (n.d.). The Balance. Retrieved August 1, 2024, from https://www.thebalancemoney.com/current-and-historical-medicare-part-b-premiums-2388483
+- U.S. Bureau of Economic Analysis. (1947, January 1). Personal saving as a percentage of disposable personal income. FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/A072RC1Q156SBEA
+- U.S. Federal Housing Finance Agency. (1975, January 1). All-Transactions House Price Index for the United States. FRED, Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/USSTHPI
+- Degenhard, J. (2021, July 20). Gini index worldwide 2020, by country. Statista. https://www.statista.com/forecasts/1171540/gini-index-by-country
+- Income share of the richest 1% (before tax). (n.d.). Our World in Data. Retrieved August 1, 2024, from https://ourworldindata.org/grapher/income-share-top-1-before-tax-wid?tab=table&time=1820..latest
+- Numbeo. (2023). Health Care Index by Country 2019 Mid-Year. Numbeo.com. https://www.numbeo.com/health-care/rankings_by_country.jsp
+- Poverty rate. (n.d.). OECD. Retrieved August 1, 2024, from https://www.oecd.org/en/data/indicators/poverty-rate.html?oecdcontrol-0ad85c6bab-var1=CHE%7CSWE
+- Social Mobility by Country 2021. (n.d.). Worldpopulationreview.com. https://worldpopulationreview.com/country-rankings/social-mobility-by-country
+- The Education Price Index 2022 — a Study by N26. (n.d.). N26.com. https://n26.com/en-eu/the-education-price-index
+- Transparency International. (2024). 2023 Corruption Perceptions Index. Transparency.org; Transparency International. https://www.transparency.org/en/cpi/2023
+- Wikipedia Contributors. (2019, September 6). List of countries by social welfare spending. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/List_of_countries_by_social_welfare_spending
+- World Population Review. (2021). Education Index by Country 2023. Worldpopulationreview.com. https://worldpopulationreview.com/country-rankings/education-index-by-country
+- Worldometer. (2023). GDP by Country. WorldoMeters. https://www.worldometers.info/gdp/gdp-by-country/
