@@ -18,13 +18,20 @@ This project investigates how the promise of the American Dream has evolved over
 ## Repository Structure
 ```
 data/
-WDS Project.xlsx # Raw dataset used for analysis
-analysis.Rmd # Full R Markdown with code, cleaning, and modeling
-analysis.html # Compiled HTML of analysis.Rmd
-report.Rmd # Clean narrative version for presentation
-report.html # Compiled HTML of report.Rmd
-presentation.pptx # Presentation slides
-README.md
+  WDS Project.xlsx      # Raw dataset used for analysis
+  Clean_Data.csv        # Cleaned dataset
+
+output/
+  analysis.html         # Compiled HTML of analysis.Rmd
+  report.html           # Compiled HTML of report.Rmd
+  presentation.pptx     # Presentation slides
+
+analysis.Rmd            # Full R Markdown with code, cleaning, and modeling
+report.Rmd              # Clean narrative version for presentation
+final.Rproj             # RStudio project file
+
+README.md               # Project overview and instructions
+REFERENCES.md           # List of all data sources and references
 ```
 
 ---
@@ -53,7 +60,7 @@ README.md
 - **Poverty Rate:** Affected by healthcare index, wealth distribution, and welfare spending.  
 - **GDP per Capita:** Strongly predicted by corruption perception.
 
-> See `report.html` for visualizations and detailed results.
+> See `output/report.html` for visualizations and detailed results.
 
 ---
 
@@ -87,4 +94,4 @@ README.md
 - See [References](REFERENCES.md) for more detailed sources.
 ---
 
-**Note:** Rendered outputs in `report.html` may not knit perfectly on different machines due to package version differences. All code and preprocessing steps are reproducible via `analysis.Rmd`.
+**Note:** Rendered outputs in `output/report.html` may not knit perfectly on different machines due to package version differences. All code and preprocessing steps are reproducible via `analysis.Rmd`.
